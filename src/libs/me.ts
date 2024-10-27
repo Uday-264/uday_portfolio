@@ -23,7 +23,7 @@ import {
     socialLinks : {
       github: 'https://github.com/uday-264/',
       linkedin: 'https://www.linkedin.com/in/udaykumarBethi/',
-      resume: '/Resume.pdf',
+      resume: 'Resume.pdf',
     },
     education : [
       {
