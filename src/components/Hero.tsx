@@ -13,7 +13,7 @@ const Hero = () => {
     >
       <div className=" max-w-4xl md:mx-auto relative">
         <motion.img 
-          src="/uday.png" 
+          src="uday.png" 
           alt="Udaykumar Bethi" 
           className=" w-48 h-48  rounded-full border-4 border-purple-200 object-cover mx-auto mb-4 "
           initial={{ scale: 0.5, opacity: 0 }}
